@@ -10,7 +10,7 @@ Don't expect anything fancy at all here, I'm just using this to learn more about
 python (specially GUIs) and to help my friend built the Cyberdeck project she wants :)
 
 ### AI was used (Claude Code)
-Since I din't know anything about python GUIs, I did use AI to help me, 
+Since I didn't know anything about python GUIs, I did use AI to help me, 
 however with the updates I will do to this project, I'll make sure I use less and less AI
 
 # How does it Work?
