@@ -512,7 +512,7 @@ def build_spotify(parent):
 class Dashboard:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Dashboard")
+        self.root.title("Dashboard V1.0")
         self.root.configure(bg=THEME["bg"])
         self.root.geometry(f"{THEME['window_width']}x{THEME['window_height']}")
 
